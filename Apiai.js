@@ -1,9 +1,9 @@
 var apiai = require('apiai')
-var app = apiai("6f898f97b6af48bb9e7a9c966b628925");
 
-// Release as new Library for Bottr
+function Apiai(token) {
 
-function Apiai() {
+  var app = apiai(token);
+
   return function(bot) {
 
     bot.on('message_received', function(message, session, next) {
