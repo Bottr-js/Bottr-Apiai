@@ -1,0 +1,25 @@
+{
+  "name": "bottr-apiai",
+  "version": "0.1.0",
+  "description": "Integration for Bottr with apiai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bottr-js/Bottr-Apiai.git"
+  },
+  "keywords": [
+    "apiai",
+    "bottr",
+    "bots",
+    "chatbots"
+  ],
+  "author": "James Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bottr-js/Bottr-Apiai/issues"
+  },
+  "homepage": "https://github.com/Bottr-js/Bottr-Apiai#readme"
+}
